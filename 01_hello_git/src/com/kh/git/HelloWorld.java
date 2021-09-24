@@ -26,5 +26,11 @@ public class HelloWorld {
 	public void hello(){
 		System.out.println("원격저장소 fetch테스트");	
 	}
+	/**
+	*원격저장소 pull테스트
+	*/
+	public void world(){
+		System.out.println("원격저장소 pull테스트");	
+	}
 
 }
