@@ -3,7 +3,11 @@ package com.kh.git;
 import com.kh.animal.Cat;
 import com.kh.animal.Dog;
 import com.kh.foo.Foo;
-
+/**
+ * 
+ * 원격 저장소 push check
+ *
+ */
 public class HelloWorld {
 
 	public static void main(String[] args) {
