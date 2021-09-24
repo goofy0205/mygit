@@ -24,7 +24,7 @@ public class HelloWorld {
 	*원격저장소 fetch테스트
 	*/
 	public void hello(){
-		system.out.println("원격저장소 fetch테스트");	
+		System.out.println("원격저장소 fetch테스트");	
 	}
 
 }
