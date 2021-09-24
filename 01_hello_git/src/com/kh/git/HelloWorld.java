@@ -20,5 +20,11 @@ public class HelloWorld {
 		new Cat().catsay();
 		new Dog().dogsay();
 	}
+	/**
+	*원격저장소 fetch테스트
+	*/
+	public void hello(){
+		system.out.println("원격저장소 fetch테스트");	
+	}
 
 }
