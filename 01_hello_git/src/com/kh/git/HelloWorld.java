@@ -9,6 +9,7 @@ public class HelloWorld {
 		System.out.println("Hello git!");
 		System.out.println("Good luck");
 		new Foo().sayFoo();
+		System.out.println("lucky");//#master에서 추가
 	}
 
 }
